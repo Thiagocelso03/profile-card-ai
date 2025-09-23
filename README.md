@@ -1,5 +1,4 @@
-5. Criar README.md
-markdown
+
 # Cartão de Perfil com IA Generativa
 
 Este projeto demonstra como criar um cartão de perfil com integração conceitual de IA Generativa.
